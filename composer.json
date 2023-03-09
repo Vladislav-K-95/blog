@@ -1,0 +1,19 @@
+{
+    "name": "trolo/blog",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Trolo\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vladislav",
+            "email": "trololo557@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "4.*"
+    }
+}
